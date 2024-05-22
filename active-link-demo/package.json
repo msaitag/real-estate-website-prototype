@@ -1,5 +1,5 @@
 {
-  "name": "dtt-assessment",
+  "name": "active-link-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,13 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@vuelidate/core": "^2.0.2",
-    "@vuelidate/validators": "^2.0.2",
-    "axios": "^1.4.0",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13",
-    "vue-router": "^4.0.13",
-    "vue-underscore": "^0.1.4"
+    "vue": "^3.2.13"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
